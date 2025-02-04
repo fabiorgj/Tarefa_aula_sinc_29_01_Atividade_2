@@ -18,7 +18,7 @@ Caso queira ver a simulação através do Wokwi web: [simulação no Wokwi web](
 
 > **Observação importante:** Na simulação do Wokwi o `printf` via terminal não funciona para o RP2040 com CMake.
 
-![Simulação no VS Code]()
+![Simulação no VS Code](https://github.com/fabiorgj/Tarefa_aula_sinc_29_01_Atividade_2/blob/main/SIMULA%C3%87%C3%83O%20WOKWI.gif)
 
 O código rodando na BitdogLab:    
 
@@ -68,5 +68,5 @@ Esta função é chamada a cada 3 segundos e realiza:
 - 1 Botão (GPIO 5)
 - 3 Resistores de 330Ω (um para cada LED)
 
-![Diagrama do Circuito no Wokwi]()
+![Diagrama do Circuito no Wokwi](https://github.com/fabiorgj/Tarefa_aula_sinc_29_01_Atividade_2/blob/main/diagrama%20wokwi.png)
 
