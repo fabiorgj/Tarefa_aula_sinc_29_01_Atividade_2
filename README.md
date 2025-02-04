@@ -16,8 +16,6 @@ O projeto **integra o Wokwi ao VS Code** para fazer a simulação do circuito, e
 
 Caso queira ver a simulação através do Wokwi web: [simulação no Wokwi web](https://wokwi.com/projects/421922658945214465)
 
-> **Observação importante:** Na simulação do Wokwi o `printf` via terminal não funciona para o RP2040 com CMake.
-
 ![Simulação no VS Code](https://github.com/fabiorgj/Tarefa_aula_sinc_29_01_Atividade_2/blob/main/SIMULA%C3%87%C3%83O%20WOKWI.gif)   
 
 O código rodando na BitdogLab:    
