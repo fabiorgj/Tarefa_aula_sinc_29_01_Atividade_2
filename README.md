@@ -18,11 +18,11 @@ Caso queira ver a simulação através do Wokwi web: [simulação no Wokwi web](
 
 > **Observação importante:** Na simulação do Wokwi o `printf` via terminal não funciona para o RP2040 com CMake.
 
-![Simulação no VS Code](https://github.com/fabiorgj/Tarefa_aula_sinc_29_01_Atividade_2/blob/main/SIMULA%C3%87%C3%83O%20WOKWI.gif)
+![Simulação no VS Code](https://github.com/fabiorgj/Tarefa_aula_sinc_29_01_Atividade_2/blob/main/SIMULA%C3%87%C3%83O%20WOKWI.gif)   
 
 O código rodando na BitdogLab:    
 
-![codigo na bitdoglab]()
+![codigo na bitdoglab](https://github.com/fabiorgj/Tarefa_aula_sinc_29_01_Atividade_2/blob/main/bitdoglab-atv2.gif)   
 
 ## Descrição
 
